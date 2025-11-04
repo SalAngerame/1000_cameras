@@ -1,9 +1,14 @@
 # Finding The Best Camera Overall
 
 ![Intro Background Slide](https://github.com/user-attachments/assets/8f5b0b6a-3fe6-4bc7-80dc-e2a40079b2fb)
-The objective is to find a camera that is the best overall in terms of its specs. This uses a dataset that contains 1000 rows (each row a different camera) and 13 columns giving the specs of each of the camera.
 ## Overview
+The objective is to find a camera that is the best overall in terms of its specs. This uses a dataset that contains 1000 rows (each row a different camera) and 13 columns giving the specs of each of the camera. When it comes to photography, there are many ways to pursue it. For some people, it involves buying multiple cameras and multiple lenes for different subjects they want to take a picture of. Wether it's landscape photos, close-ups of animals, portraits, moon photography, etc. For some people, having one camera is right for them. That's why in this repository the goal is to find one camera that can do a little bit of everything, and do it well at the same time.
 
+## The Questions being answered:
+- Which camera can produce high quality images?
+- Which camera has verstile uses?
+- Out of the last two questions, which camera has both?
+- Is there both an expensive option and a cheaper option?
 
 
 
