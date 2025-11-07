@@ -18,11 +18,16 @@ Although this data contains a lot of information, it doesn't contain much of the
 The quality of a camera's image was determined by the megapixel count. A bar graph was made on the top 10 cameras (out of 1000) with the highest megapixel count, and then manually adding in their sensor sizes. The prices of each of the camera were also determined, giving a range on what the cost would look like for one of these cameras.
 <img width="984" height="989" alt="Top 10 Camera Models With Highest Amount of Megapixels Compared to Their Prices" src="https://github.com/user-attachments/assets/a7a544c9-aaae-4a94-8b1f-518a537d8bfe" />
 
+Here gives a representation on what sensor sizes looks like in a camera.
+<img width="610" height="274" alt="common-camera-sensor-sizes-610x274" src="https://github.com/user-attachments/assets/fa4e16c0-f823-46bf-8c12-4753a7657b59" />
+
 ## Versatiliy Of The Cameras
 The versatility of the cameras was determined by their ​focal lengths. Some lenses​ allow the user to change​ the focal length, allowing for more versatility ​compared to lenes that have a fixed focal length. The graph takes those same 10 cameras and shows their focal length capability. The single red bars represent cameras with a fixed focal length, giving them limited shooting capabilities. The cameras with both red and orange bars show that they can change their focal length, giving them more of a range of environments they can shoot at.​
-Here gives a representation of what focal length looks like in a camera.
-![what-is-focal-length-1-1200x675](https://github.com/user-attachments/assets/0121a4ea-f0dd-4e6a-a9f2-0d5d91356cfd)
 <img width="1189" height="1189" alt="The Cameras&#39; Focal Length Range" src="https://github.com/user-attachments/assets/668d51c2-926c-46ed-aac6-da1fbb2c3dfb" /> 
+
+Here gives a representation on what focal length looks like in a camera.
+![what-is-focal-length-1-1200x675](https://github.com/user-attachments/assets/0121a4ea-f0dd-4e6a-a9f2-0d5d91356cfd)
+
 ##Conclusion
 The first graph establishes the price range of the top 10 cameras with the highest megapixel count. The Canon EOS-1Ds Mark III has the best quality, but is the most expensive at a price of $7999, while the Kodak DCS SLR/n, Kodak DCS SLR/c, and Kodak DCS 14n are the cheapest options with great quality at $129.​ The Canon Powershot A650 IS has the most versatility, with the ability to change its focal length.​ Out of both the graphs measuring quality and versatility, the Canon Powershot A650 IS is the best camera overall, with a count of 12 megapixels, a sensor size of 7.53 x 5.64 mm, and a focal length range of  35 mm to 210 mm, all for the price of $399. This camera demonstrates a balance between producing great quality images while also having the ability to shoot in different types of environments.​ The images below show the camera itself and pictures taken from that same camera.
 ![il_1080xN 6480940916_dptq](https://github.com/user-attachments/assets/36c72565-f728-43be-897d-9c4855694558)
