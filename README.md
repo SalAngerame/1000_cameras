@@ -36,9 +36,9 @@ The first graph establishes the price range of the top 10 cameras with the highe
 ![Sample Photo 3](https://github.com/user-attachments/assets/e789a4ea-a2af-4549-931c-83340a29b40b)
 
 ## Work Cited
-Intro Background Image - https://www.amazon.com​
-Data Drawbacks Image – 1,500+ Broken Camera Lens Stock Photos, Pictures & Royalty-Free Images - iStock​
-Camera Sensors Sizes Image - Camera Sensor Sizes Explained - Full-Frame vs APS-C​
-Focal Length Image - FOCAL LENGTH COMPARISON - What is focal length?​
-Canon Powershot A650 IS Image - https://i.etsystatic.com​
-Canon Powershot A650 IS Sample Photos - Canon POWERSHOT A650 IS sample photo - qa3nY6Qcl0 - ExploreCams​
+- Intro Background Image - https://www.amazon.com​
+- Data Drawbacks Image – 1,500+ Broken Camera Lens Stock Photos, Pictures & Royalty-Free Images - iStock​
+- Camera Sensors Sizes Image - Camera Sensor Sizes Explained - Full-Frame vs APS-C​
+- Focal Length Image - FOCAL LENGTH COMPARISON - What is focal length?​
+- Canon Powershot A650 IS Image - https://i.etsystatic.com​
+- Canon Powershot A650 IS Sample Photos - Canon POWERSHOT A650 IS sample photo - qa3nY6Qcl0 - ExploreCams​
