@@ -28,14 +28,14 @@ The versatility of the cameras was determined by their ​focal lengths. Some le
 Here gives a representation on what focal length looks like in a camera.
 ![what-is-focal-length-1-1200x675](https://github.com/user-attachments/assets/0121a4ea-f0dd-4e6a-a9f2-0d5d91356cfd)
 
-##Conclusion
+## Conclusion
 The first graph establishes the price range of the top 10 cameras with the highest megapixel count. The Canon EOS-1Ds Mark III has the best quality, but is the most expensive at a price of $7999, while the Kodak DCS SLR/n, Kodak DCS SLR/c, and Kodak DCS 14n are the cheapest options with great quality at $129.​ The Canon Powershot A650 IS has the most versatility, with the ability to change its focal length.​ Out of both the graphs measuring quality and versatility, the Canon Powershot A650 IS is the best camera overall, with a count of 12 megapixels, a sensor size of 7.53 x 5.64 mm, and a focal length range of  35 mm to 210 mm, all for the price of $399. This camera demonstrates a balance between producing great quality images while also having the ability to shoot in different types of environments.​ The images below show the camera itself and pictures taken from that same camera.
 ![il_1080xN 6480940916_dptq](https://github.com/user-attachments/assets/36c72565-f728-43be-897d-9c4855694558)
 ![Sample Photo 1](https://github.com/user-attachments/assets/65a5f505-6a4e-478b-8111-208582111e13)
 ![Sample Photo 2](https://github.com/user-attachments/assets/813a342d-548c-472a-b1b5-57fbe4db678e)
 ![Sample Photo 3](https://github.com/user-attachments/assets/e789a4ea-a2af-4549-931c-83340a29b40b)
 
-Work Cited
+## Work Cited
 Intro Background Image - https://www.amazon.com​
 Data Drawbacks Image – 1,500+ Broken Camera Lens Stock Photos, Pictures & Royalty-Free Images - iStock​
 Camera Sensors Sizes Image - Camera Sensor Sizes Explained - Full-Frame vs APS-C​
